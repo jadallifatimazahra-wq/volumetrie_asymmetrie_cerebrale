@@ -272,17 +272,6 @@ Une ANOVA à deux facteurs (Type II) est appliquée afin de tester :
 - l’effet principal de la boisson,
 - leur interaction.
 
-
-## Auteur
-
-**Fatima Zahra JADALLI**
-Ingénieur en traitement des images médicales
-
-- GitHub: [github.com/jadalli](https://github.com/jadallifatimazahra-wq)
-- LinkedIn: [linkedin.com/fatima-zahra-jadalli/](https://www.linkedin.com/in/fatima-zahra-jadalli/)
-
-
-
 ---
 
 ### Résultats et interprétation
@@ -299,3 +288,12 @@ Pour chaque ROI, l’ANOVA fournit :
 Les effets sont visualisés à l’aide de volcano plots séparés pour chaque facteur.
 
 ![](Image3.png)
+
+
+## Auteur
+
+**Fatima Zahra JADALLI**
+Ingénieur en traitement des images médicales
+
+- GitHub: [github.com/jadalli](https://github.com/jadallifatimazahra-wq)
+- LinkedIn: [linkedin.com/fatima-zahra-jadalli/](https://www.linkedin.com/in/fatima-zahra-jadalli/)
