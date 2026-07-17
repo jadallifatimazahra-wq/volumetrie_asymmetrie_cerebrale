@@ -272,6 +272,17 @@ Une ANOVA à deux facteurs (Type II) est appliquée afin de tester :
 - l’effet principal de la boisson,
 - leur interaction.
 
+
+## Auteur
+
+**Fatima Zahra JADALLI**
+Ingénieur en traitement des images médicales
+
+- GitHub: [github.com/jadalli](https://github.com/jadallifatimazahra-wq)
+- LinkedIn: [linkedin.com/fatima-zahra-jadalli/](https://www.linkedin.com/in/fatima-zahra-jadalli/)
+
+
+
 ---
 
 ### Résultats et interprétation
