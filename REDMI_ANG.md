@@ -27,6 +27,8 @@ All Jacobian images and Regions of Interest are provided in `.nii` (NIfTI) forma
 
 ## symetry_atlas
 
+<img src="atlas.png" width="100">
+
 * Detects the Left/Right axis using Python's `aff2axcodes` function.
 
 * Measures voxel-wise asymmetry:
@@ -43,6 +45,7 @@ All Jacobian images and Regions of Interest are provided in `.nii` (NIfTI) forma
   * Preserves the middle slice when the x-dimension is odd.
   * Saves the newly generated symmetric atlas.
 
+<img src="atlas1.png" width="100">
 ---
 
 ## symetry_Rois
@@ -71,6 +74,7 @@ The asymmetry percentage is computed as:
 * Generates a symmetric left ROI by mirroring the right ROI.
 * Saves the corrected left and right ROIs separately.
 
+<img src="rois.png" width="250">
 ---
 
 ## 03_asy_many_roi.py
@@ -225,6 +229,7 @@ The following comparisons are performed:
 * F.ALC vs F.WAT
 * M.WAT vs F.WAT
 
+<img src="Image1.png" width="300">
 ---
 
 ### Method
@@ -256,7 +261,7 @@ For each ROI, the test reports:
 A p-value below 0.05 indicates a statistically significant difference between groups.
 
 Results are visualized using volcano plots.
-
+<img src="Image2.png" width="300">
 ---
 
 ## Two-Way ANOVA (Sex × Drink)
@@ -302,3 +307,4 @@ For each ROI, the ANOVA provides:
 * A significant interaction indicates that the effect of alcohol differs between males and females.
 
 The results are visualized using separate volcano plots for each experimental factor.
+<img src="Image3.png" width="300">
