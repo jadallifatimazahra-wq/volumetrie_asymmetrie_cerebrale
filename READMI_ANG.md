@@ -314,7 +314,7 @@ The results are visualized using separate volcano plots for each experimental fa
 ## Author
 
 **Fatima Zahra JADALLI**
-Computer Vision Engineer
+Image Processing Engineer
 
 - GitHub: [github.com/jadalli](https://github.com/jadallifatimazahra-wq)
 - LinkedIn: [linkedin.com/fatima-zahra-jadalli/](https://www.linkedin.com/in/fatima-zahra-jadalli/)
