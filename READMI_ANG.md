@@ -45,7 +45,7 @@ All Jacobian images and Regions of Interest are provided in `.nii` (NIfTI) forma
   * Preserves the middle slice when the x-dimension is odd.
   * Saves the newly generated symmetric atlas.
 
-<img src="atlas1.png" width="250">
+<img src="atlas1.png" width="350">
 ---
 
 ## symetry_Rois
@@ -74,7 +74,7 @@ The asymmetry percentage is computed as:
 * Generates a symmetric left ROI by mirroring the right ROI.
 * Saves the corrected left and right ROIs separately.
 
-<img src="rois.png" width="250">
+<img src="rois.png" width="350">
 ---
 
 ## 03_asy_many_roi.py
@@ -229,7 +229,7 @@ The following comparisons are performed:
 * F.ALC vs F.WAT
 * M.WAT vs F.WAT
 
-<img src="Image1.png" width="400">
+<img src="Image1.png" width="700">
 ---
 
 ### Method
@@ -262,7 +262,7 @@ A p-value below 0.05 indicates a statistically significant difference between gr
 
 Results are visualized using volcano plots.
 
-<img src="Image2.png" width="400">
+<img src="Image2.png" width="700">
 ---
 
 ## Two-Way ANOVA (Sex × Drink)
@@ -309,7 +309,7 @@ For each ROI, the ANOVA provides:
 
 The results are visualized using separate volcano plots for each experimental factor.
 
-<img src="Image3.png" width="400">
+<img src="Image3.png" width="700">
 
 ## Author
 
