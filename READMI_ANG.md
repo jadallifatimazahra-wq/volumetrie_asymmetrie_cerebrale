@@ -310,3 +310,13 @@ For each ROI, the ANOVA provides:
 The results are visualized using separate volcano plots for each experimental factor.
 
 <img src="Image3.png" width="400">
+
+## Author
+
+**Fatima Zahra JADALLI**
+Computer Vision Engineer
+
+- GitHub: [github.com/jadalli](https://github.com/jadallifatimazahra-wq)
+- LinkedIn: [linkedin.com/fatima-zahra-jadalli/](https://www.linkedin.com/in/fatima-zahra-jadalli/)
+
+
